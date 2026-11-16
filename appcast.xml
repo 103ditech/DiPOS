@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>DiPOS V1.8.4</title>
+    <title>DiPOS V1.8.5</title>
     <item>
-      <title>Version 1.8.4</title>
+      <title>Version 1.8.5</title>
       <description>Bug fixes and performance improvements.</description>
-      <pubDate>Sat, 16 Nov 2026 11:19:00 +0700</pubDate>
+      <pubDate>Sat, 16 Nov 2026 12:44:00 +0700</pubDate>
       <enclosure 
-        url="https://github.com/103ditech/DiPOS/releases/download/DiPOS(V1.8.4)/DiPOS.V1.8.4.exe"
-        sparkle:version="1.8.4+39"
+        url="https://github.com/103ditech/DiPOS/releases/download/DiPOS(V1.8.5)/DiPOS.V1.8.5.exe"
+        sparkle:version="1.8.5+40"
         sparkle:os="windows"
         sparkle:installerArguments="/SILENT"
         type="application/octet-stream" />
